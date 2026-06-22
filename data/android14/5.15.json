@@ -1,0 +1,39 @@
+{
+  "android_version": "android14",
+  "kernel_version": "5.15",
+  "lts": "5.15.208",
+  "entries": [
+    {
+      "date": "2026-04",
+      "kernel": "5.15.201"
+    },
+    {
+      "date": "2026-04",
+      "kernel": "5.15.202"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.203"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.204"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.205"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.206"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.207"
+    },
+    {
+      "date": "lts",
+      "kernel": "5.15.208"
+    }
+  ]
+}
